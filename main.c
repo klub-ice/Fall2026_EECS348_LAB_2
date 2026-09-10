@@ -1,6 +1,7 @@
 #include "isEven.h"
 
 #include <stdio.h>
+#include "isOdd.h"
 
 int main() {
     int num;
